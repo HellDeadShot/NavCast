@@ -23,7 +23,7 @@ class NavCastRepository @Inject constructor(
     private val nominatimService: NominatimService
 ) {
     // TEMPORARY: Direct API key for testing - REPLACE WITH YOUR ACTUAL KEY
-    private val weatherApiKey = "c7d4c74c5de3bec457d783d5b02c16a8"
+    private val weatherApiKey = "xxxxxxxxxxxxxxxxxxxx"
 
 
     suspend fun getRoute(origin: String, destination: String): Result<RouteData> {
