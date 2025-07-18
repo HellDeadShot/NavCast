@@ -82,7 +82,7 @@ NavCast revolutionizes navigation by combining route planning with weather forec
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/navcast.git
+git clone https://github.com/HellDeadShot/navcast.git
 cd navcast
 ```
 
@@ -271,9 +271,9 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 📞 Contact & Support
 
-  * **Developer:** [@helldeadshot](https://www.google.com/search?q=https://github.com/helldeadshot)
-  * **Issues:** [GitHub Issues](https://www.google.com/search?q=https://github.com/yourusername/navcast/issues)
-  * **Discussions:** [GitHub Discussions](https://www.google.com/search?q=https://github.com/yourusername/navcast/discussions)
+  * **Developer:** [@helldeadshot](https://github.com/helldeadshot)
+  * **Issues:** [GitHub Issues](https://github.com/yourusername/navcast/issues)
+  * **Discussions:** [GitHub Discussions](https://github.com/yourusername/navcast/discussions)
 
 -----
 ⭐ Star this repository if you found it helpful\!
