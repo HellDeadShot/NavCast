@@ -38,8 +38,9 @@ object AppModule {
     fun provideNominatimOkHttpClient(): OkHttpClient {
         val userAgentInterceptor = Interceptor { chain ->
             val request = chain.request().newBuilder()
-                .header("User-Agent", "NavCast/1.0 (Android Navigation App; helldeadshot@example.com)")
-                .header("Referer", "com.helldeadshot.navcast")
+                .header("User-Agent", "NavCast/1.0 (https://github.com/HellDeadShot/NavCast)")
+                .header("Accept", "application/json")
+                .header("Accept-Language", "en")
                 .build()
             chain.proceed(request)
         }
